@@ -15,6 +15,7 @@ I analyzed survey data from COMP110 students to understand how they feel about t
 ## Visualization 1
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="/comp110-project/static/imgs/pace.png" width="500">
+
 *Figure 1: Distribution of student ratings for course pace.*
 
 ## Explanation
