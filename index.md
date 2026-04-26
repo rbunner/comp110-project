@@ -4,7 +4,7 @@ layout: default
 ---
 
 # COMP 110 Data Analysis Project 
-*By Reese Bunner*
+*By Reese Bunner and Mary Christian*
 
 ## My Idea
 The course should slow down during more difficult topics because students may struggle to keep up with the pace.
