@@ -22,7 +22,7 @@ title: COMP110 Project
 email: rbun@unc.edu
 description: Analysis of COMP110 survey data on course pace and student experience.
 baseurl: "/comp110-project" # the subpath of your site, e.g. /blog
-url: "url: "rbunner.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "rbunner.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
